@@ -18,7 +18,7 @@
         </dict>
         <dict>
             <key>match</key>
-            <string>^\s*(ld|ldi|ldd|ldh|push|pop|add|adc|sub|sbc|and|or|xor|cp|inc|dec|daa|cpl|rlca|rla|rrca|rra|rlc|rl|rrc|rr|sla|swap|sra|srl|bit|res|set|ccf|scf|nop|halt|stop|di|ei|jp|jr|call|ret|reti|rst)\b</string>
+            <string>^\s*(ld|ldi|ldd|ldh|ldio||push|pop|add|adc|sub|sbc|and|or|xor|cp|inc|dec|daa|cpl|rlca|rla|rrca|rra|rlc|rl|rrc|rr|sla|swap|sra|srl|bit|res|set|ccf|scf|nop|halt|stop|di|ei|jp|jr|call|ret|reti|rst)\b</string>
             <key>name</key>
             <string>keyword.other.mnemonic</string>
         </dict>
