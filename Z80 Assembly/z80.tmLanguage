@@ -42,7 +42,7 @@
         </dict>
         <dict>
             <key>match</key>
-            <string>\b(a|b|c|d|e|h|af|bc|de|hl|sp)\b</string>
+            <string>\b(a|b|c|d|e|h|l|af|bc|de|hl|sp)\b</string>
             <key>name</key>
             <string>support.class.z80</string>
         </dict>
